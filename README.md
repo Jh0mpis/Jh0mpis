@@ -59,8 +59,12 @@ I also have some works on quantum computing, videogames and mechanical statistic
    <a href="https://jupyter.org/" target="_blank">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   </a>
-  <!--aHR0cHM6Ly9pbWFnZWRlbGl2ZXJ5Lm5ldC81TVlTYms0NU04MHFBd2VjcmxLemRRLzFkY2E5YjA2LTNkMWUtNGViYS01NmJlLTg2NGRjYmM3ZjYwMC9wcmV2aWV3
-   https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+-->
+
+  
+  <a href="https://www.wolfram.com/mathematica/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/MATHEMATICA-900051.svg?&style=for-the-badge&logo=wolframmathematica&logoColor=white">
+  </a>
+  
    <a href="https://www.java.com/en/" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/Java-DB6400.svg?style=for-the-badge&logo=oracle&logoColor=white">
   </a>
