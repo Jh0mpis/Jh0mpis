@@ -24,9 +24,11 @@
   </p>
 
 
-<p >I specialize in the use of Python Programming Language and various of its' libraries such as Numpy, Matplotlib, Pandas, SciKitLearn, etc for data science and for general pruposes. I'm currently interesed in AI and computing cosmological and astrophysical simulation.<\br>
-I work in General Relativity, Black Holes and Cosmology at a theoretical approach.<\br>
-  I also have some works on quantum computing, videogames and mechanical statistic applied on computing problems as the Conway's game of life.
+<p >I specialize in the use of Python Programming Language and various of its' libraries such as Numpy, Matplotlib, Pandas, SciKitLearn, etc for data science and for general pruposes. I'm currently interesed in AI and computing cosmological and astrophysical simulation.
+	
+I work in General Relativity, Black Holes and Cosmology at a theoretical approach.
+
+I also have some works on quantum computing, videogames and mechanical statistic applied on computing problems as the Conway's game of life.
 </p>
 
 
@@ -50,78 +52,99 @@ I work in General Relativity, Black Holes and Cosmology at a theoretical approac
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
 
-   <a href="https://matplotlib.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Matplotlib?style=for-the-badge&logo=python&logoColor=white">
+  <a href="https://matplotlib.org/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/MATPLOTLIB-32ABFF.svg?style=for-the-badge&logo=python&logoColor=white">
   </a>
   
    <a href="https://jupyter.org/" target="_blank">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   </a>
+  <!--aHR0cHM6Ly9pbWFnZWRlbGl2ZXJ5Lm5ldC81TVlTYms0NU04MHFBd2VjcmxLemRRLzFkY2E5YjA2LTNkMWUtNGViYS01NmJlLTg2NGRjYmM3ZjYwMC9wcmV2aWV3
+   https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+-->
+   <a href="https://www.java.com/en/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/Java-DB6400.svg?style=for-the-badge&logo=oracle&logoColor=white">
+  </a>
+  
+  <a href="https://cplusplus.com/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-FF0000.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
+  </a>
+  
+  <a href="https://www.linux.org/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/LINUX-000000.svg?style=for-the-badge&logo=linux&logoColor=white">
+  </a>
+  
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
+  <a href="https://github.com/Jh0mpis" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
+    <img src="https://img.shields.io/badge/PyCharm-0050ff.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
   </a>
 </p>
 
+<!--
 ## Projects
 
-<a href="https://github.com/Nneji123/Website-Blocker">
+<a href="https://github.com/Jh0mpis/AgujerosNegrosdRGT">-->
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
+  <!--<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
 
 </a>  
 
-<a href="https://github.com/Nneji123/Alien-Shooter">
+<a href="https://github.com/Nneji123/Alien-Shooter">-->
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
+<!--
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
 
 </a> 
+-->
+
+ ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
+    <a href="https://github.com/Jh0mpis/github-readme-stats"><img alt="Jh0mpis Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jh0mpis&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jh0mpis&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
   <br/>
   </p>
-</details>
 
 
-<details>
+<!--<details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Jh0mpis"><img alt="Jh0mpis recent activity" src="https://activity-graph.herokuapp.com/graph?username=Jh0mpis&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-</details>
+</details>-->
 
 <br/>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 Most pround of
+- Tird place at QColombia Quantum Fall Fest 2022 of IBM: Quantum Computing competence of IBM 2022. Project name: "Random Graphs using Quantum Computing".
+- Get the physicist grade: It's for me a dream made true.
+- Being enrolled in the ICTP Physics Without Frontiers PhysicsLatam advanced lectures on theoretical physics in the General Relativity and Quantum Field Theory courses.
+- Being part of the RECA mentorship program 2023 as a mentored.
 
-
-
+----
+## <img src = "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014132/BHW_Binary_Black_Holes_Accretion_Disk.gif" width = 50px>  Interests
+- Cosmology
+- Black Holes
+- Theoretical Physics
+- Computational physics
+- Cosmological and astrophysics simulations
+- Artificial intelligence
+- Gravitational Waves
 ----
 
 <p align="center">
@@ -131,5 +154,3 @@ I work in General Relativity, Black Holes and Cosmology at a theoretical approac
 
 -----
 Credits: [Nneji123](https://github.com/Nneji123)
-
-Last Edited on: 4/30/2022
