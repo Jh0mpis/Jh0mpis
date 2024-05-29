@@ -149,12 +149,5 @@ I also have some works on quantum computing, videogames and mechanical statistic
 - Cosmological and astrophysics simulations
 - Artificial intelligence
 - Gravitational Waves
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
 -----
 Credits: [Nneji123](https://github.com/Nneji123)
